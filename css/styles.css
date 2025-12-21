@@ -1,11 +1,11 @@
-/* ====== GLOBAL ====== */
+
 body {
-  font-family: "Roboto", sans-serif; /* C5–C7 */
-  color: #212121; /* C8 */
+  font-family: "Roboto", sans-serif; 
+  color: #212121;
   margin: 0;
 }
 
-/* ====== HEADER ====== */
+
 .header-logo {
   font-weight: 700;
   font-size: 26px;
@@ -21,7 +21,7 @@ body {
 
 .nav-link:hover,
 .nav-link:focus {
-  color: #2196f3; /* C3 */
+  color: #2196f3; 
 }
 
 .header-contact {
@@ -31,18 +31,18 @@ body {
 
 .header-contact:hover,
 .header-contact:focus {
-  color: #2196f3; /* C4 */
+  color: #2196f3;
 }
 
-/* ====== HERO ====== */
+
 .hero {
   background-color: #2f303a;
 }
 
 .hero-title {
   font-weight: 900;
-  font-size: 44px;        /* C9 */
-  line-height: 1.36;     /* C10 */
+  font-size: 44px;      
+  line-height: 1.36;     
   color: #ffffff;
 }
 
@@ -52,7 +52,7 @@ body {
   line-height: 1.88;
   color: #ffffff;
   background-color: #2196f3;
-  cursor: pointer;       /* C13 */
+  cursor: pointer;      
 }
 
 .hero-btn:hover,
@@ -60,7 +60,7 @@ body {
   background-color: #188ce8;
 }
 
-/* ====== SECTIONS ====== */
+
 .section-title {
   font-weight: 700;
   font-size: 36px;
@@ -74,7 +74,7 @@ body {
   color: #757575;
 }
 
-/* ====== FOOTER ====== */
+
 .footer {
   background-color: #2f303a;
 }
