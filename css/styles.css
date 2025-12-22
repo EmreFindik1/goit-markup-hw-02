@@ -1,0 +1,87 @@
+
+body {
+  font-family: "Roboto", sans-serif; 
+  color: #212121;
+  margin: 0;
+}
+
+
+.header-logo {
+  font-weight: 700;
+  font-size: 26px;
+  color: #000000;
+  text-decoration: none;
+}
+
+.nav-link {
+  font-weight: 500;
+  color: #212121;
+  text-decoration: none;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+  color: #2196f3; 
+}
+
+.header-contact {
+  color: #757575;
+  text-decoration: none;
+}
+
+.header-contact:hover,
+.header-contact:focus {
+  color: #2196f3;
+}
+
+
+.hero {
+  background-color: #2f303a;
+}
+
+.hero-title {
+  font-weight: 900;
+  font-size: 44px;      
+  line-height: 1.36;     
+  color: #ffffff;
+}
+
+.hero-btn {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.88;
+  color: #ffffff;
+  background-color: #2196f3;
+  cursor: pointer;      
+}
+
+.hero-btn:hover,
+.hero-btn:focus {
+  background-color: #188ce8;
+}
+
+
+.section-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.17;
+  color: #212121;
+}
+
+.text {
+  font-size: 14px;
+  line-height: 1.71;
+  color: #757575;
+}
+
+
+.footer {
+  background-color: #2f303a;
+}
+
+.footer-logo {
+  font-weight: 700;
+  font-size: 26px;
+  color: #ffffff;
+  text-decoration: none;
+}
